@@ -1,0 +1,32 @@
+Sentence#,Word,POS,Tag
+Sentence: 1,Dr,NNP,B-prov
+Sentence: 1,Gregory,NNP,I-prov
+Sentence: 1,M,NNP,I-prov
+Sentence: 1,Cowan,NNP,I-prov
+Sentence: 1,is,VBZ,O
+Sentence: 1,an,DT,O
+Sentence: 1,Immunologist,NN,B-spec
+Sentence: 1,at ,IN,O
+Sentence: 1,Fortis,NNP,B-org
+Sentence: 1,Hospital,NNP,I-org
+Sentence: 2,Dr,NNP,B-prov
+Sentence: 2,Debra,NNP,I-prov
+Sentence: 2,H,NNP,I-prov
+Sentence: 2,Mescher,NNP,I-prov
+Sentence: 2,is,VBZ,O
+Sentence: 2,an ,DT,O
+Sentence: 2,Internist,NN,B-spec
+Sentence: 3,Jordan,NNP,B-prov
+Sentence: 3,A,NNP,I-prov
+Sentence: 3,Sennett,NNP,I-prov
+Sentence: 3,is,VBZ,O
+Sentence: 3,an,DT,O
+Sentence: 3,Endocrinologist,NN,B-spec
+Sentence: 4,Colonoscopy,NN,B-spec
+Sentence: 4,Sigmoidoscopy,NN,B-spec
+Sentence: 4,large,VBZ,O
+Sentence: 4,Endoscope,NN,B-spec
+Sentence: 4,Enteroscopy,NN,B-spec
+Sentence: 5,Christian,NNP,I-prov
+Sentence: 5,Chu,NNP,I-prov
+Sentence: 5,MD,NNP,I-prov
