@@ -1,2 +1,2 @@
 # customNER
-Custom NET
+Custom NER
